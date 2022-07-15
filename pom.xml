@@ -18,6 +18,5 @@
   <build>
     <finalName>01-maven-web-app</finalName>
   </build>
-  username: kamalakar
-  passwd: kamal4916@
+ 
 </project>
